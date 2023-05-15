@@ -1,0 +1,22 @@
+{
+  "APIs": {
+    "zenz": "https://api.zahwazein.xyz", 
+    "apikey": "dryanbot"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "autobio": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "exif": {
+    "packname": "By",
+    "author": "@lutzslwly"
+  },
+  "owner": [
+    "6283129196077"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Powered by © Lutz Botz"
+}
